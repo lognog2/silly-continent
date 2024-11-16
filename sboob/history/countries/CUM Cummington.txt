@@ -1,0 +1,18 @@
+government = monarchy
+technology_group = western
+unit_type = western
+primary_culture = cummingtonite 
+religion = sboob_pagan
+add_accepted_culture = pootopian
+capital = #Cummington
+government_rank = 1 
+
+1444.1.1 = {
+	monarch = {
+		name = "Lognog I"
+		dynasty = "Logite"
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+}

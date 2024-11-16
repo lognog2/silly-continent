@@ -1,0 +1,6 @@
+government = monarchy
+technology_group = western
+primary_culture = sexvillian
+religion = sexy_pagan
+capital = #Sexville
+government_rank = 1

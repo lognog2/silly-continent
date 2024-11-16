@@ -1,0 +1,17 @@
+government = 
+technology_group = 
+primary_culture = 
+religion = 
+add_accepted_culture = 
+capital = 
+government_rank = 
+
+1444.1.1 = {
+	monarch = {
+		name = ""
+		dynasty = ""
+		adm = 
+		dip = 
+		mil = 
+	}
+}

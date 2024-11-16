@@ -1,0 +1,6 @@
+government = monarchy
+technology_group = western
+primary_culture = saladite
+religion = 
+capital = #Jaboogus
+government_rank = 2

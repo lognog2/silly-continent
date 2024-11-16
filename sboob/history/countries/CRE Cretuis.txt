@@ -1,0 +1,11 @@
+government = monarchy
+technology_group = eastern
+unit_type = eastern
+primary_culture = energylandian
+religion = 
+historical_friend = LOG
+historical_rival = DOO
+add_accepted_culture = clevelander
+add_accepted_culture = petorian
+capital = #Energylandia
+government_rank = 2

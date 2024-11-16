@@ -1,0 +1,47 @@
+#Country Name:
+
+#tech group
+graphical_culture = gfx
+
+# map color - rgb
+color = { 0 0 0 }
+
+#flag color - eu4 color id
+revolutionary_colors = { 0 0 0 }
+
+#idea groups the cpu will choose from
+historical_idea_groups = {
+	
+}
+
+#copy off similar irl country
+historical_units = {
+	
+}
+
+"A #0" = 0
+#num: lineage number
+#chance of appearing (men 0+, women negative)
+monarch_names = {
+	"A #0" = 0
+}
+
+#last names, quote when 2+ words
+leader_names = {
+	
+}
+
+#quote when 2+ words
+ship_names = {
+	
+}
+
+#always quote
+army_names = {
+    "Army of $PROVINCE$"
+}
+
+#always quote
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}

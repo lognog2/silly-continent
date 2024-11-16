@@ -1,0 +1,17 @@
+government = monarchy
+technology_group = western
+primary_culture = cummingtonite
+religion = logism
+capital = #Cummington
+government_rank = 2
+historical_friend = CRE
+
+1502.11.14 = {
+	monarch = {
+		name = "Lognog III"
+		dynasty = "Logite"
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+}

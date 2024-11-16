@@ -1,0 +1,10 @@
+#available start dates and their recommended countries
+bookmark =
+{
+	name = "FIRSTDPWAR_NAME"
+	desc = "FIRSTDPWAR_DESC"
+	date = 1512.6.9
+	
+	country = DOO
+	country = PET
+}

@@ -1,0 +1,85 @@
+#Country Name: Soup
+#ideas/units: milan
+
+#tech group
+graphical_culture = westerngfx
+
+# map color - rgb
+color = { 0 0 0 }
+
+#flag color - eu4 color id
+revolutionary_colors = { 0 0 0 }
+
+#idea groups the cpu will choose from
+historical_idea_groups = {
+	innovativeness_ideas
+	defensive_ideas
+	diplomatic_ideas
+	administrative_ideas
+	quality_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+}
+
+#copy off similar irl country
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+"A #0" = 0
+#num: lineage number
+#chance of appearing (men 0+, women negative)
+monarch_names = {
+	"Andru #0" = 50
+	"Pingas #0" = 40
+	"Sans #0" = 40
+	"Chicken Noodle #0" = 10
+	"Miso #0" = -10
+}
+
+#last names, quote when 2+ words
+leader_names = {
+	Pingas
+	Soup
+	Spaghetti
+	Broth
+	Dinner
+	Weegee
+	Undertale
+}
+
+#quote when 2+ words
+ship_names = {
+	"SS Ballcams"
+	Nitro
+	Weegee 
+	Pingas
+	Soup
+	Spaghetti
+	Broth
+	Dinner
+}
+
+#always quote
+army_names = {
+    "$PROVINCE$ Soup"
+}
+
+#always quote
+fleet_names = {
+	"$PROVINCE$ Broth"
+}

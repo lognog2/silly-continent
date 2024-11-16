@@ -1,0 +1,6 @@
+government = theocracy
+technology_group = muslim
+primary_culture = mechian
+religion = isntlam
+capital = #Mechia
+government_rank = 1

@@ -1,0 +1,82 @@
+#Country Name: Cummington
+
+#tech group
+graphical_culture = westerngfx
+
+# map color - rgb
+color = { 0 0 0 }
+
+#flag color - eu4 color id
+revolutionary_colors = { 0 0 0 }
+
+historical_idea_groups = {
+	administrative_ideas
+    trade_ideas
+    religious_ideas
+    spy_ideas
+    diplomatic_ideas
+    humanist_ideas
+    quantity_ideas
+}
+
+#copied off sweden
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+#"Name #num" = chance
+#num: lineage number
+#chance of appearing (men 0+, women negative)
+monarch_names = {
+	"Lognog #1" = 1
+    "Hugh #0" = 0
+    "Ben #0" = 0
+    "Cornelius #0" = 0
+    "Ronald #0" = 0
+    "Mike #0" = 0
+    "Heywood #0" = 0
+    "Hawk #0" = 0
+    "Romeo #0" = 0
+    "Deez #0" = 0
+}
+
+#last names, quote when 2+ words
+leader_names = {
+	Janus
+    Dover
+    Cummington
+    Flockendorf
+    Jablomi
+    Tuah
+    Hock
+    Bubbleblaster
+    Corndog
+    Dingleberry
+    Wilburhampton
+}
+
+#quote when 2+ words
+ship_names = {
+    "SS Ballcams"
+    "Long Gone"
+	"Boaty McBoatFace"
+    "hi"
+}
+
+#"Army of $PROVINCE$"
+army_names = {
+	#"Army of $PROVINCE$"
+}

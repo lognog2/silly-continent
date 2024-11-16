@@ -1,0 +1,24 @@
+
+#cummington and mechia
+vassal = {
+    first = CUM
+    second = MEC
+    start_date = 1444.1.1
+    end_date = 1820.12.12
+}
+
+#soup and sexville
+vassal = {
+    first = SOU
+    second = SXV
+    start_date = 1444.1.1
+    end_date = 1820.12.12
+}
+
+#lognog and cretuis
+alliance = {
+    first = CRE
+    second = DOL
+    start_date = 1504.4.12
+    end_date = 1820.12.12
+}

@@ -1,0 +1,15 @@
+#available start dates and their recommended countries
+bookmark =
+{
+	name = "SPAWNEXODUS_NAME"
+	desc = "SPAWNEXODUS_DESC"
+	date = 1444.11.11
+	
+	country = DOO
+	country = PET
+	country = CUM
+	country = SOU
+	country = JAC
+	country = SLA
+	country = FTX
+}

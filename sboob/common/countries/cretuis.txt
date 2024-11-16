@@ -1,0 +1,88 @@
+#Country Name: Petoria
+#ideas/units based off poland, names based off family guy
+
+#tech group
+graphical_culture = easterngfx
+
+#council of trent: harsh/concilatory
+historical_council = harsh
+
+# map color - rgb
+color = { 0 0 0 }
+
+#flag color - eu4 color id
+revolutionary_colors = { 0 0 0 }
+
+#idea groups the cpu will choose from
+historical_idea_groups = {
+	exploration_ideas
+	expansion_ideas
+	diplomatic_ideas
+	humanist_ideas	
+	trade_ideas
+	offensive_ideas
+	administrative_ideas
+	defensive_ideas
+	aristocracy_ideas	
+	quality_ideas
+}
+
+#copy off similar irl country
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+"A #0" = 0
+#num: lineage number
+#chance of appearing (men 0+, women negative)
+monarch_names = {
+	"Peter #0" = 100
+	"Chris #0" = 20
+	"Brian #0" = 20
+	"Stewart #0" = 20
+	"Cleveland #0" = 5
+	"Glenn #0" = 5
+	"Joe #0" = 5
+	"Retep #0" = 1
+	"Lois #0" = -10
+	"Meg #0" = -10
+}
+
+#last names, quote when 2+ words
+leader_names = {
+	Griffin
+	Quagmire
+	Brown
+	Swanson
+	Pewterschmidt
+	West
+}
+
+#quote when 2+ words
+ship_names = {
+	Petercopter "Train on the Water"
+}
+
+#always quote
+army_names = {
+    "Army of $PROVINCE$"
+}
+
+#always quote
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}

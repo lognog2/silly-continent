@@ -1,0 +1,67 @@
+#Country Name: Uprot
+#holland ideas/units, custom names
+
+#tech group
+graphical_culture = westerngfx
+
+# map color - rgb
+color = { 0 0 0 }
+
+#flag color - eu4 color id
+revolutionary_colors = { 0 0 0 }
+
+#idea groups the cpu will choose from
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	innovativeness_ideas
+	trade_ideas
+	quality_ideas
+	economic_ideas
+	infrastructure_ideas
+}
+
+#copy off similar irl country
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+"A #0" = 0
+#num: lineage number
+#chance of appearing (men 0+, women negative)
+monarch_names = {
+	"Bunbun #0" = 50
+	"M #0" = 20
+}
+
+#last names, quote when 2+ words
+leader_names = {
+	"von Uprot"
+}
+
+#quote when 2+ words
+ship_names = {
+	"SS Ballcams"
+}
+
+#always quote
+army_names = {
+    "Army of $PROVINCE$"
+}
+
+#always quote
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}

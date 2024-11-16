@@ -1,0 +1,19 @@
+government = monarchy
+technology_group = eastern
+unit_type = eastern
+primary_culture = doofanian
+religion = 
+capital = 1 #Doofania
+government_rank = 1
+historical_rival = PET
+historical_rival = CRE
+
+1444.1.1 = {
+	monarch = {
+		name = "Dick 'Ballsack'"
+		dynasty = "Jamaal"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}

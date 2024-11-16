@@ -1,0 +1,8 @@
+government = republic
+technology_group = western
+primary_culture = soupy
+religion = 
+add_accepted_culture = obaman
+capital = #Andru house
+government_rank = 2
+

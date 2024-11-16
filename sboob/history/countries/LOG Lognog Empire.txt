@@ -1,0 +1,20 @@
+government = monarchy
+technology_group = western
+primary_culture = cummingtonite
+add_accepted_culture = pootopian
+add_accepted_culture = gumballer
+add_accepted_culture = sprinkler
+religion = logism
+capital = #Cummington
+government_rank = 3
+historical_friend = CRE
+
+1545.11.14 = {
+	monarch = {
+		name = "Lognog VI"
+		dynasty = "Logite"
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+}

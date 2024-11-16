@@ -1,0 +1,15 @@
+#available start dates and their recommended countries
+bookmark =
+{
+	name = "MODERN_NAME"
+	desc = "MODERN_DESC"
+	date = 1800.1.1
+	
+	country = LOG
+	country = SFB
+	country = CRE
+	country = SOU
+	country = JAC
+	country = UPR
+	country = FTX
+}

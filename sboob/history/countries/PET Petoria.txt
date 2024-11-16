@@ -1,0 +1,25 @@
+government = monarchy
+technology_group = eastern
+primary_culture = petorian
+religion = 
+add_accepted_culture = 
+capital = #Petoria
+government_rank = 1
+historical_rival = DOO
+
+1444.1.1 = {
+	monarch = {
+		name = "Peter I"
+		dynasty = "Griffin"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+	heir = {
+		name = "Chris I"
+		dynasty = "Griffin"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

@@ -1,0 +1,176 @@
+#Country Name: Slamongflobo
+#ideas/units based off kongo/sweden
+
+#tech group
+graphical_culture = westerngfx
+
+#council of trent: harsh/concilatory
+historical_council = concilatory
+
+# map color - rgb
+color = { 0 0 0 }
+
+#flag color - eu4 color id
+revolutionary_colors = { 0 0 0 }
+
+#idea groups the cpu will choose from
+historical_idea_groups = {
+	administrative_ideas
+	offensive_ideas
+	maritime_ideas
+	quality_ideas
+	innovativeness_ideas
+	defensive_ideas
+	trade_ideas
+	exploration_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+}
+
+#copy off similar irl country
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+"A #0" = 0
+#num: lineage number
+#chance of appearing (men 0+, women negative)
+monarch_names = {
+	"Zola #0" = 50
+	"Zonga #0" = 35
+	"Godzilla #0" = 20
+	"Ghidorah #0" = 20
+	"Little Caesars #1" = 1
+	"Crazy Bread #3" = -1
+	"Zolina #0" = -50
+	"Mothra #0 " = -30
+
+	"Ntinu #0" = 20
+	"Nkuwu #0" = 20
+	"Bernardo #0" = 20
+	"Diogo #0" = 20
+	"Nicolau #0" = 20
+	"Nzinga Nkuwa #0" = 20
+	"Ilunga #0" = 0
+	"Sanza #0" = 0
+	"Kumwimba #0" = 0
+	"Kasongo #0" = 0
+	"Kekenya #0" = 0
+	"Kaumbo #0" = 0
+	"Miketo #0" = 0
+	"Nday #0" = 0
+	"Mwine #0" = 0
+	"Maloba #0" = 0
+	"Kitamba #0" = 0
+	"Cibind #0" = 0
+	"Nawej #0" = 0
+	"Munying #0" = 0
+	"Kateng #0" = 0
+	"Cakasekene #0" = 0
+	"Cikombe #0" = 0
+	"Kalong #0" = 0
+	"Mutand #0" = 0
+	"Mbala #0" = 0
+	"Mukaz #0" = 0
+	"Mpemba #0" = 0
+	"Jetta #0" = -1
+	"Vandana #0" = -1
+	"Zody #0" = -1
+
+	"Karl #7" = 20
+	"Gustav #0" = 20
+	"Erik #13" = 20
+	"Johan #2" = 20
+	"Christian #0" = 20
+	"Christoph #0" = 20
+	"Fredrik #0" = 10
+	"Magnus #3" = 10
+	"Rangvald #0" = 0
+	"Rettil #0" = 0
+	"Sigvard #0" = 0
+	"Simon #0" = 0
+	"Sten #0" = 0
+	"Svante #0" = 0
+	"Tomas #0" = 0
+	"Ulrik #0" = 0
+	"Christina #0" = -10
+	"Hedwig #0" = -5
+	"Katarina #0" = -1
+	"Margareta #0" = -1
+	"Anna #0" = -1
+	"Cecilia #0" = -1
+	"Elisabet #0" = -1
+	"Birgitta #0" = -1
+	"Eleonora #0" = -10
+}
+
+#last names, quote when 2+ words
+leader_names = {
+	Godzilla Ghidorah Mothra Minusone
+
+	Lissouba
+	Bongo
+	Boussombo
+	Youlou
+	Nguesso
+	Youla
+	Rallum
+	Raoumbe
+	Tayot
+	Makanga
+
+	Adeler
+	Bielke
+	Christiansen
+	Darbsson
+	Eberstein 
+	Falkenskjold
+	Fischer
+	Norby
+	Ulfeldt
+	Jodenheimer
+}
+
+#quote when 2+ words
+ship_names = {
+	"SS Ballcams"
+	"Omnichad"
+	"Nimi a Nzima" "Nsaku Lau" "Lukeni lua Nimi"
+	Matadi "Mpemba Kasi" Mbata Mbanza Nanga Nlaza
+	"Nkuwu a Ntinu"
+	"Lybska �rnen" Madam Makal�s Malm� Manligheten Margareta Maria 
+	Monikendam "Stralsunds Johannes" Str�mstad Styrburn St�varen "St� Bi"
+	"St� Fast"
+}
+
+#always quote
+army_names = {
+	"Union Army"
+	"Army of Rostratt"
+	"Army of Naughty Wilbur"
+	"Army of Dagrambra"
+	"Army of Vanda"
+	"Army of Elande"
+    "Army of $PROVINCE$"
+}
+
+#always quote
+fleet_names = {
+	"Fleet of the Republic"
+	"Fleet of $PROVINCE$"
+}

@@ -1,0 +1,125 @@
+#Country Name: Fiesta Taxes
+#ideas/units: mongol khanate, names: usa
+
+#tech group
+graphical_culture = asiangfx
+
+# map color - rgb
+color = { 0 0 0 }
+
+#flag color - eu4 color id
+revolutionary_colors = { 0 0 0 }
+
+#idea groups the cpu will choose from
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+#copy off similar irl country
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+"A #0" = 0
+#num: lineage number
+#chance of appearing (men 0+, women negative)
+monarch_names = {
+	"Shaggy #0" = 30
+	"George #0" = 20
+	"James #0" = 20
+	"John #0" = 20
+	"Thomas #0" = 20
+	"Charles #0" = 15
+	"Daniel #0" = 15
+	"Henry #0" = 15
+	"Samuel #0" = 15
+	"Arthur #0" = 10
+	"Cyrus #0" = 10
+	"David #0" = 10
+	"Elias #0" = 10
+	"Frederick Augustus #0" = 10
+	"Nathaniel #0" = 10
+	"Peyton #0" = 10
+	"Richard #0" = 10
+	"Aaron #0" = 0
+	"Angus #0" = 0
+	"August #0" = 0
+	"Benjamin #0" = 0
+	"Calvin #0" = 0
+	"Darren #0" = 0
+	"Elbridge #0" = 0
+	"Eric #0" = 0
+	"Francis #0" = 0
+	"Frederick #0" = 0
+	"Isaac #0" = 0
+	"Jonathan #0" = 0
+	"Joseph #0" = 0
+	"Kyran #0" = 0
+	"Luke #0" = 0
+	"Milton #0" = 0
+	"Patrick #0" = 0
+	"Paul #0" = 0
+	"Philip #0" = 0
+	"Randolf #0" = 0
+	"Silvester #0" = 0
+	"Timothy #0" = 0
+	"Wilbur #0" = 0
+	"William #0" = 0
+	"Alexander #0" = 0
+    "Stephen #0" = 0
+    "Deborah #0" = -1
+    "Sarah #0" = -1
+    "Anne #0" = -1
+}
+
+#last names, quote when 2+ words
+leader_names = {
+	Adams 
+	Burr
+	Clinton
+	Jay Jefferson 
+	Harrison
+	King
+	Langdon
+	Madison Monroe 
+	Pickney
+	Rutledge
+	Steed Stryder Sutcliffe Swaggert Stover 
+	Stetson Kempton Kendrick Lane Lindon Lyle Merrick 
+	Atworth Arnott Ashton Boyd Caddock Drummond Arkeith
+	Kennedy Trevin Vaughan Dylan Dalton Dellwin Sheldon
+	Spencer Thorley Thompson Unwin Walden Ward Winston
+	Douglas Floyd Richardson
+}
+
+#quote when 2+ words
+ship_names = {
+	"SS Ballcams" "Rattler"
+}
+
+#always quote
+army_names = {
+    "Army of $PROVINCE$"
+}
+
+#always quote
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}

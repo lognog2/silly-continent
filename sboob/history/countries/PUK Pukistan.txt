@@ -1,0 +1,6 @@
+government = monarchy
+technology_group = muslim
+primary_culture = pukistani
+religion = isntlam
+capital = #Stinkerton
+government_rank = 1

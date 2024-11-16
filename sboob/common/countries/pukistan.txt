@@ -1,0 +1,101 @@
+#Country Name: Pukistan
+#based off Baluchistan
+
+#tech group
+graphical_culture = muslimgfx
+
+# map color - rgb
+color = { 0 0 0 }
+
+#flag color - eu4 color id
+revolutionary_colors = { 0 0 0 }
+
+#idea groups the cpu will choose from
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+	administrative_ideas
+	maritime_ideas
+	naval_ideas
+}
+
+#copy off similar irl country
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+"A #0" = 0
+#num: lineage number
+#chance of appearing (men 0+, women negative)
+monarch_names = {
+	"Ahmad #0" = 30
+	"Mir Mehrab #0" = 30
+	"Samandar #0" = 10
+	"Mir Abdullah #0" = 10
+	"Mir Muhabbat #0" = 10
+	"Mir Muhammad Naseer #0" = 10
+	"Mir Mahmud #0" = 10
+	"Kumbar #0" = 10
+	"Mir Chakar #0" = 10
+	"Mir Shahzad #0" = 10
+	"Hasan #0" = 10
+	"Khonza #0" = -1
+	"Ashraf Khanam #0" = -1
+	"Nur #0" = -1
+	"Khair Bibi #0" = -1
+}
+
+#last names, quote when 2+ words
+leader_names = {
+	Jamot
+	Bugti
+	Zikri
+	Ghilzai
+	Barakzay
+	Bozdar
+	Mirrani
+	Mihrabanid
+	Khokhar
+	Rind
+	Shar
+	Lashari
+	Lund
+	Hooth
+	Korai
+	Jatoi
+	Nausherwani
+}
+
+#quote when 2+ words
+ship_names = {
+	Alia Arusa Dasht Fatimah
+	Hormuz Indus Kech Khan
+	Mashkaal Nihing Niknaz Niloufa
+	Noor Rakhshan Salima Shameena
+	Suhalia Yasmine Zahira Zhab
+}
+
+#always quote
+army_names = {
+    "Army of $PROVINCE$"
+}
+
+#always quote
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}

@@ -1,0 +1,6 @@
+government = monarchy
+technology_group = western
+primary_culture = fleshuan
+religion = 
+capital = 
+government_rank = 1

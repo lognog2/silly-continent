@@ -1,0 +1,11 @@
+#available start dates and their recommended countries
+bookmark =
+{
+	name = "SECONDDPWAR_NAME"
+	desc = "SECONDDPWAR_DESC"
+	date = 1521.6.9
+	
+	country = DOO
+	country = CRE
+	country = LOG
+}

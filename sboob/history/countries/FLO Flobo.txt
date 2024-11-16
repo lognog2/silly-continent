@@ -1,0 +1,8 @@
+government = monarchy
+technology_group = western
+primary_culture = floboan
+religion = virkeism
+add_accepted_culture = earlyer
+add_accepted_culture = dinosaur
+capital = 
+government_rank = 2

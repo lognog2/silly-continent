@@ -1,0 +1,8 @@
+government = republic
+technology_group = western
+unit_type = sub_saharan
+primary_culture = slamongite
+religion = leweism
+add_accepted_culture = zolar
+capital = #slamong city
+government_rank = 2

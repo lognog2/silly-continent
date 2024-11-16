@@ -1,0 +1,8 @@
+government = monarchy
+technology_group = eastern
+unit_type = eastern
+primary_culture = doofanian
+religion = 
+add_accepted_culture = 
+capital = #True Doofania
+government_rank = 2

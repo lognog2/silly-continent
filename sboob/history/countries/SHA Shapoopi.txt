@@ -1,0 +1,7 @@
+government = tribal
+add_government_reform = steppe_horde
+technology_group = nomad_group
+primary_culture = shapoopi
+religion = 
+capital = #Shapoopi
+government_rank = 1

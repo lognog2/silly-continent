@@ -1,0 +1,17 @@
+government = republic
+technology_group = western
+primary_culture = autobot
+religion = 
+add_accepted_culture = bumbly
+capital = #Autobot City
+government_rank = 2
+
+1444.1.1 = {
+	monarch = {
+		name = "Optimus I"
+		dynasty = "Prime"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

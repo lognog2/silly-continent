@@ -1,0 +1,7 @@
+government = republic
+technology_group = western
+primary_culture = zolar
+religion = 
+add_accepted_culture = slamongite
+add_accepted_culture = floboan
+capital = #New Slamongflobo City

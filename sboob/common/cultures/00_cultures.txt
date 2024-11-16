@@ -1,0 +1,189 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+#
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+#
+# graphical_culture = gfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+
+arentrab = {
+    graphical_culture = muslimgfx
+    mechian = {
+        primary = MEC
+    }
+
+    pukistani = {
+        primary = PUK
+    }
+}
+
+cretuan = {
+    graphical_culture = easterngfx
+
+    clevelandian = {
+        #primary = CLE
+    }
+
+    energylandian = {
+        primary = CRE
+    }
+
+    fleshuan = {
+        primary = FLE
+    }
+
+    petorian = {
+        primary = PET
+    }
+}
+
+flobo = {
+    graphical_culture = westerngfx
+    dinosaur = {
+        #primary = DIN
+    }
+
+    floboan = {
+        primary = FLO
+    }
+
+    earlyan = {
+        #primary - EAR
+    }
+}
+
+hooligan = {
+    graphical_culture = westerngfx
+    stupid = {
+        #primary = STU
+    }
+    montian = {
+        #primary = MON
+    }
+}
+
+jacrispian = {
+    graphical_culture = westerngfx
+
+    autobot = {
+        primary = JAC
+    }
+    
+    bumbly = {
+        #primary = BUM
+    }
+
+    decepticon = {
+        #primary = DEC
+    }
+
+    uprotten = {
+        primary = UPROT
+    }
+}
+
+lognogian = {
+    graphical_culture = westerngfx
+
+    cummingtonite = {
+        primary = CUM
+        dynasty_names = {
+            "Cummings"
+        }
+    }
+
+    gumball = {
+        #primary = GUM
+    }
+
+    pootopian = {
+        #primary = POO
+    }
+
+    sprinkler = {
+        #primary = SPR
+    }
+}
+
+peanutter = {
+    graphical_culture = westerngfx
+
+    greggian = {
+        primary = GRE
+    }
+
+    gobbler = {
+        #primary = GOB
+    }
+
+    shapoopi = {
+        primary = SHA
+    }
+
+    whacko = {
+        #primary = WHA
+    }
+}
+
+sexican = {
+    graphical_culture = westerngfx
+
+    guacamoli = {
+        #primary = GUA
+    }
+
+    sexican = {
+        primary = SEX
+    }
+
+    sexvillian = {
+        primary = SXV
+    }
+}
+
+slamong = {
+    graphical_culture = africangfx
+
+    slamongite = {
+        primary = SLA
+    }
+
+    slamong_farter = {
+        #primary = NFF
+    }
+
+    zolar = {
+        primary = SFB
+    }
+}
+
+soupy = {
+    graphical_culture = westerngfx
+
+    saladite = {
+        primary = SAL
+    }
+
+    soupy = {
+        primary = SOU
+    }
+
+    obaman = {
+        #primary = SWO
+    }
+
+    soupy_farter = {
+        #primary = SFF
+    }
+}
+
+spawn = {
+    graphical_culture = easterngfx
+    
+    doofanian = {
+        primary = DOO
+    }
+}
+

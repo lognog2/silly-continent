@@ -1,0 +1,11 @@
+#available start dates and their recommended countries
+bookmark =
+{
+	name = "BOOKMARK_NAME"
+	desc = "BOOKMARK_DESC"
+	date = 1444.11.11
+	
+	country = AAA
+
+    easy_country = CUM
+}
