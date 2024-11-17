@@ -42,6 +42,9 @@
 ## Trade
 - Trade is one of the most confusing parts of the game, but I like to think I have a good grasp on it
 - Each province is part of a trade reigon, which it generates cash for depending on its trade power
+- Money in trade flows in one direction between trade regions
+- Countries have to strategically decide which trade regions to collect from and which to push from
 
-
-
+## Warfare
+- To delcare war you need a valid reason (called a Casus Belli) or you face severe drawbacks
+- To win a war you move your armies around to capture enemy provinces, until the enemy surrenders or a peace deal is made
