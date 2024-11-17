@@ -9,7 +9,7 @@
 ## How to edit/play
 
 - You can directly edit the mod files through GitHub (look up a tutorial if you're not sure how)
-- The mod is not yet playable but when it is, place the sboob folder (not the silly-continent folder) in \Documents\Paradox Interactive\Europa Universalis IV\mod
+- The mod is not yet playable but when it is, place the sboob folder in \Documents\Paradox Interactive\Europa Universalis IV\mod
 - Original game files are located in \Steam\steamapps\common\Europa Universalis IV
 
 ## Modding rules
